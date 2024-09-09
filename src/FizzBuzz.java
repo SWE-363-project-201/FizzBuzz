@@ -1,6 +1,7 @@
 /**
  * Solve the FizzBuzz challenge.
  */
+// Useless comment
 class FizzBuzz {
 
     public static void main(String[] args) {
